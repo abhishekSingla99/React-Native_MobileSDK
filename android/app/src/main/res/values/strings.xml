@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">com.pwc.myapp.login</string>
+	<string name="app_name">salesforceApp</string>
+	<string name="app_package">com.pwc.myapp</string>
+</resources>
